@@ -3,6 +3,17 @@
     <channel>
         <title>meawditate</title>
         <item>
+            <title>2.0.1</title>
+            <pubDate>Thu, 18 Jun 2026 16:12:17 +0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Nattothemoon/breathe-now-releases/releases/download/v2.0.1/Meawditate-2.0.1.dmg" length="5555552" type="application/octet-stream" sparkle:edSignature="M5J1m82fRbjlLcTtPmO4tbibCMBLpyyH+hU4Mt1UkRbEn7WByEIQ5i1jOVW3LCFuk7JXTIo/McjfvpLA11CBAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Nattothemoon/breathe-now-releases/releases/download/v2.0.1/meawditate3-2.delta" sparkle:deltaFrom="2" length="530210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DIR9dzkWkzeWGxEmxbPhosDJRfYnDW7lRNjsJbQTUbrzacCX0UhdmRV29Ali19k8KcCGufCxlFcy2bYTJ8UfAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>2.0</title>
             <pubDate>Thu, 18 Jun 2026 13:38:46 +0700</pubDate>
             <sparkle:version>2</sparkle:version>
